@@ -10,3 +10,4 @@ remove the module from the kernel with sudo rmmod cook.ko
 clean the source code directory with make clean
 
 YouTube video url: https://www.youtube.com/watch?v=oZ0vzIyJFqU
+YouTube video url (bash utilities): https://www.youtube.com/watch?v=P5-goowfBpE
