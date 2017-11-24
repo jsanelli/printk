@@ -1,7 +1,7 @@
 # printk
 demonstrate printk
 
-C program with printk to demonstrate eight log levels.
+C kernel module with printk to demonstrate eight log levels.
 
 compile the module with make
 Monitor log messages in a separate console with sudo dmesg -w
